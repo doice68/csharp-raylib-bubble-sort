@@ -1,0 +1,21 @@
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\bubble sort.exe
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\bubble sort.deps.json
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\bubble sort.runtimeconfig.json
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\bubble sort.dll
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\ref\bubble sort.dll
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\bubble sort.pdb
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\Raylib-cs.dll
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\c#\raylib\bubble sort\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.csproj.AssemblyReference.cache
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.AssemblyInfoInputs.cache
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.AssemblyInfo.cs
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.csproj.CoreCompileInputs.cache
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.csproj.CopyComplete
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.dll
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\ref\bubble sort.dll
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.pdb
+D:\c#\raylib\bubble sort\obj\Debug\net6.0\bubble sort.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/LDVCoOiRV//v29kiYeKiyP07S0+tB/vyTNyH1krAzMt5zvsurZCON5/qJ+AilYmJShYDGaGI54tW5KYJBBZA==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\raylib\\bubble sort\\bubble sort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meraj\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
